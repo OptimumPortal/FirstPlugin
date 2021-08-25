@@ -1,0 +1,5 @@
+name: TestCoding
+version: 0.0.1
+main: io.github.OptimumPortal.TestCoding
+api-version: 1.16
+description: A blank spigot plugin that does nothing! Also my first plugin!
